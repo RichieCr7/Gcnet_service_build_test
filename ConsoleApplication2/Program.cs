@@ -37,6 +37,9 @@ namespace ConsoleApplication2
        //<wsdl:retrieveManifest soapenv:encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/">
        //<string xsi:type="xsd:string" xs:type="type:string" xmlns:xs="http://www.w3.org/2000/XMLSchema-instance" ><![CDATA[<retrieveManifest>
 
+
+
+
             var trans = DateTime.Now.ToString("yyyyMMddhhmmss");
             var to_Date = DateTime.Now.ToString("yyyyMMddhhmmss");
 
